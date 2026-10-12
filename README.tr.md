@@ -6,7 +6,8 @@
   <p>
     <strong>Dil:</strong> <a href="README.md"><strong>EN</strong></a> | <a href="README.tr.md"><strong>TR</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://hfatih.github.io/quantum-double-slit/"><strong>✦ Canlı Simülasyon (hfatih.github.io/quantum-double-slit)</strong></a> ·
+    <a href="https://doubleslit.hfatih.com"><strong>✦ Canlı Simülasyon (doubleslit.hfatih.com)</strong></a> ·
+    <a href="https://hfatih.github.io/quantum-double-slit/"><strong>GitHub Pages</strong></a> ·
     <a href="#genel-bakış">Genel Bakış</a> ·
     <a href="#fizik-motoru">Fizik Motoru</a> ·
     <a href="#ölçüm-ve-dolanıklık">Ölçüm &amp; Dolanıklık</a> ·
@@ -15,7 +16,8 @@
   </p>
 
   <p>
-    <a href="https://hfatih.github.io/quantum-double-slit/"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-hfatih.github.io-e7a0b9?style=flat-square&logo=googlechrome&logoColor=white" alt="Canlı Demo"></a>
+    <a href="https://doubleslit.hfatih.com"><img src="https://img.shields.io/badge/Canl%C4%B1%20Site-doubleslit.hfatih.com-60a5fa?style=flat-square&logo=googlechrome&logoColor=white" alt="Canlı Site doubleslit.hfatih.com"></a>
+    <a href="https://hfatih.github.io/quantum-double-slit/"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-GitHub%20Pages-e7a0b9?style=flat-square&logo=github&logoColor=white" alt="Canlı Demo GitHub Pages"></a>
     <img src="https://img.shields.io/badge/Dil-TR%20%7C%20EN-blue?style=flat-square" alt="TR | EN">
     <img src="https://img.shields.io/badge/Platform-Taray%C4%B1c%C4%B1%20%2F%20WebGL%202-0078D6?logo=webgl&style=flat-square" alt="WebGL 2">
     <img src="https://img.shields.io/badge/%C3%87ekirdek-Saf%20JavaScript-F7DF1E?logo=javascript&style=flat-square" alt="Vanilla JS">
