@@ -11,8 +11,7 @@
     <a href="#overview">Overview</a> ·
     <a href="#physics-engine">Physics Engine</a> ·
     <a href="#quantum-measurement">Measurement &amp; Decoherence</a> ·
-    <a href="#controls">Controls</a> ·
-    <a href="#support">Support</a>
+    <a href="#controls">Controls</a>
   </p>
 
   <p>
@@ -30,23 +29,6 @@
   <br>
   <img src="docs/images/preview.png" alt="Quantum Double Slit Simulation Preview" width="940">
   <br>
-</div>
-
----
-
-## Support
-
-If **Quantum Double-Slit** is helpful for your physics education, research, or curiosity, you can support its development:
-
-<div align="center">
-  <a href="https://buymeacoffee.com/hfatih" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/Hfatih" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsor">
-  </a>
-  <p><sub><em>Your support keeps the project independent, free, and continuously evolving.</em></sub></p>
 </div>
 
 ---
