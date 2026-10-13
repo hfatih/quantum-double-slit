@@ -11,8 +11,7 @@
     <a href="#genel-bakış">Genel Bakış</a> ·
     <a href="#fizik-motoru">Fizik Motoru</a> ·
     <a href="#ölçüm-ve-dolanıklık">Ölçüm &amp; Dolanıklık</a> ·
-    <a href="#kontroller">Kontroller</a> ·
-    <a href="#destek">Destek</a>
+    <a href="#kontroller">Kontroller</a>
   </p>
 
   <p>
@@ -30,23 +29,6 @@
   <br>
   <img src="docs/images/preview.png" alt="Kuantum Çift Yarık Simülasyon Önizlemesi" width="940">
   <br>
-</div>
-
----
-
-## Destek
-
-Eğer **Kuantum Çift Yarık** simülasyonunu fizik eğitiminizde, araştırmalarınızda veya kişisel merakınızda faydalı bulduysanız projeye destek olabilirsiniz:
-
-<div align="center">
-  <a href="https://buymeacoffee.com/hfatih" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/Hfatih" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsor">
-  </a>
-  <p><sub><em>Desteğiniz projenin bağımsız, ücretsiz ve sürekli güncel kalmasını sağlar.</em></sub></p>
 </div>
 
 ---
