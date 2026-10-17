@@ -25,6 +25,12 @@
     <img src="https://img.shields.io/badge/Testler-Tamam%C4%B1%20Ge%C3%A7ti-success?style=flat-square" alt="Testler">
     <img src="https://img.shields.io/badge/Lisans-MIT-blue?style=flat-square" alt="MIT Lisansı">
   </p>
+  <p align="center">
+    <img src="https://hits.sh/github.com/hfatih/quantum-double-slit.svg?style=flat-square&label=g%C3%B6r%C3%BCnt%C3%BClenme&color=e7a0b9" alt="Views">
+    <a href="https://github.com/hfatih/quantum-double-slit/stargazers"><img src="https://img.shields.io/github/stars/hfatih/quantum-double-slit?style=flat-square&label=y%C4%B1ld%C4%B1z&color=f0abc5" alt="Stars"></a>
+    <a href="https://github.com/hfatih/quantum-double-slit/forks"><img src="https://img.shields.io/github/forks/hfatih/quantum-double-slit?style=flat-square&label=fork&color=dba8c2" alt="Forks"></a>
+    <a href="https://github.com/hfatih/quantum-double-slit/commits"><img src="https://img.shields.io/github/last-commit/hfatih/quantum-double-slit?style=flat-square&label=son%20commit&color=bca4dd" alt="Last commit"></a>
+  </p>
 
   <br>
   <img src="docs/images/preview.png" alt="Kuantum Çift Yarık Simülasyon Önizlemesi" width="940">
